@@ -1,8 +1,8 @@
 {
-  "name": "pnogal",
+  "name": "Minesweeper-in-the-Terminal",
   "version": "1.0.0",
-  "description": "",
-  "main": "meal_maker.js",
+  "description": "Classic Minesweeper game that can be played from the command line",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d lib"
